@@ -1,6 +1,6 @@
 ### Hi there! I'm Emirhan Berberoğlu👋
 
-🎓 **2nd-Year Computer Engineering Student** | Passionate Software Developer
+🎓 **3nd-Year Computer Engineering Student** | Passionate Software Developer
 
 I am a dedicated engineering student eager to learn, build, and solve complex problems through code. I enjoy turning logical algorithms into interactive applications and constantly expanding my technical skill set.
 
